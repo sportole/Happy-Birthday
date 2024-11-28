@@ -126,7 +126,7 @@ function displayCatHeart() {
             };
 
             imageContainer.appendChild(linkElement);
-        }, 1000); // 3000ms delay (3 seconds)
+        }, 2000); // 2000ms delay (2 seconds)
     };
 }
 // Display the cat.gif initially
